@@ -1,17 +1,17 @@
 {
-	"Title": "Tony Stark | Personal Webpage",
-	"Name": "Tony Stark",
+	"Title": "Tanay Mehendale | Personal Webpage",
+	"Name": "Tanay Mehendale",
 	"Description": [
-		"Iron Man is a fictional superhero appearing in American comic books published by Marvel Comics.", 
-		"The character was co-created by writer and editor Stan Lee, developed by scripter Larry Lieber, and designed by artists Don Heck and Jack Kirby"
+		"Pursuing Electronics & Telecommunications from Sardar Patel Institute of Technology", 
+		"Passionate about Data Science & Machine Learning. Although I like to explore various fields :)"
 	],
 	"MainImage": "https://i.imgur.com/bBE4aWb.jpg",
 	"BackgroundURL": "https://wallpapercave.com/wp/wp5959279.png",
 
 	"WorkContent": [
-		"I am currently full time saviour of Earth."
+		""
 	],
-	"WorkImage": "https://i.imgur.com/1QRDBCz.png",
+	"WorkImage": "",
 
 	"AboutImage": "https://i.imgur.com/mwtsqBG.jpg",
 	"AboutContent": [
@@ -20,21 +20,21 @@
 		"In order to stop Thanos once and for all, I sacrificed myself to use the Infinity Stones to disintegrate the Mad Titan and his army"
 	],
 
-	"InternshipsStartLine": "Previously, I have worked with :",
+	"InternshipsStartLine": "",
 	"InternShips": [{
-			"name": "Avengers",
-			"link": "https://en.wikipedia.org/wiki/The_Avengers_(2012_film)"
+			"name": "",
+			"link": ""
 		},
 		{
-			"name": "S.H.I.E.L.D.",
-			"link": "https://en.wikipedia.org/wiki/S.H.I.E.L.D."
+			"name": "",
+			"link": ""
 		},
 		{
-			"name": "Marvel",
-			"link": "www.marvel.com"
+			"name": "",
+			"link": ""
 		}
 	],
-	"ProjectsStartLine": "Some of my hobby bots are  :",
+	"ProjectsStartLine": "Some of my projects are  :",
 	"Projects": [{
 			"name": "JARVIS",
 			"link": "https://marvel-movies.fandom.com/wiki/Just_A_Rather_Very_Intelligent_System"
@@ -45,16 +45,16 @@
 		}
 	],
 
-	"CVStartLine": "I am always open to collaborations involving saving the world. Feel free to reach out if you want to work at Stark :)",
-	"CV": "https://marvel-movies.fandom.com/wiki/Anthony_Stark",
-	"Resume": "https://i.imgur.com/FtXmj.jpg",
+	"CVStartLine": "I am always open to collaborations with impactful work. Feel free to reach out if you want to work together :)",
+	"CV": "",
+	"Resume": "",
 
-	"emailid": "mailto:tony@starkindustries.com",
-	"linkedin": "",
-	"wordpress": "https://technoshblog.wordpress.com/",
-	"facebook": "https://www.facebook.com/aditya",
-	"github": "https://github.com/adityaketkar",
-	"instagram": "http://www.adityaketkar.me",
-	"twitter": "https://twitter.com/RobertDowneyJr",
-	"medium": "https://medium.com/@ketkaraditya"
+	"emailid": "mailto:tanaymehendale@gmail.com",
+	"linkedin": "https://in.linkedin.com/in/tanay-mehendale-95058718a",
+	"wordpress": "",
+	"facebook": "https://www.facebook.com/tanay.mehendale",
+	"github": "",
+	"instagram": "https://www.instagram.com/tanzy.hwl01/",
+	"twitter": "https://twitter.com/TanzyHwl01",
+	"medium": ""
 }
